@@ -8,17 +8,17 @@ I recommend you do this on a browser (because of yeah song downloading and reupl
 Get the song that you need to reupload on Youtube, copy the video link of it and go to this converter site!
 [YT1s](https://yt1s.com/en151)
 
-[Tutorial1](https://media.discordapp.net/attachments/923938269698334721/940143829783293972/tutorial1.png)
+![Tutorial1](https://media.discordapp.net/attachments/923938269698334721/940143829783293972/tutorial1.png)
 
 # Step 2: Uploading the song into a Discord Attachment link
 Now since you have now downloaded the MP3 of your song, open your Discord and send the MP3 on the server (i recommend doing this into a private Discord server so it won't get messy)
 
-[Tutorial2](https://media.discordapp.net/attachments/923938269698334721/940146933320790076/unknown.png)
+![Tutorial2](https://media.discordapp.net/attachments/923938269698334721/940146933320790076/unknown.png)
 
 # Step 3: Reuploading the song
 After you upload the song on a discord server, right click the song name of the MP3 and click "Copy link address". And head over to the Tools site of your GDPS and find the Song Reupload section, paste the link that you copied earlier and click "Add Song"! Then you're done! Copy the Song ID of what you've reuploaded and enjoy making levels!
 
-[finale](https://media.discordapp.net/attachments/923938269698334721/940150659725013032/finale.png)
+![finale](https://media.discordapp.net/attachments/923938269698334721/940150659725013032/finale.png)
 
 ## Having Problems putting 7 digit on Mobile?
 Its hard for some people when getting/typing 7 digit songs on their phones, but good thing there's a solution for that!
