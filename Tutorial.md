@@ -32,7 +32,7 @@ Its hard for some people when getting/typing 7 digit songs on their phones, but 
 ^^^
 If the method didn't work above this text, then try installing [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en&gl=US)
 
-- This app can bypass you from not typing 7 or more digit songs!
+- This app can help you type 7 or more digit songs with no problem!
 
 ### Having problems with the tutorial?
 Consider DMing me on Discord and i'll help you with this! (silverra#7999)
